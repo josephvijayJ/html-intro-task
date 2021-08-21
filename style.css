@@ -1,0 +1,25 @@
+body{
+    background-image: linear-gradient(to right top, #c193b1, #f7909e, #ff9d6b, #f9c128, #a8eb12);
+    height: 100vh;
+}
+
+.banner{
+ border-radius: 10px;
+ height :520px
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
+
+.text{
+    text-align: center;
+    color: black;
+    font-family:serif
+}
+.big{
+    font-size :smaller;
+}
